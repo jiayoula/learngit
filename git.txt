@@ -1,2 +1,3 @@
 Git is a  distributed version control system.
 git is a free software disteibuted under the URL.
+git has a mutable index caalled stage
